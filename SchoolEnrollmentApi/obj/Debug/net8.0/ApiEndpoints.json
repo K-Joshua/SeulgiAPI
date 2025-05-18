@@ -1,0 +1,1287 @@
+[
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.AvailabilityStatusController",
+    "Method": "GetAllAvailabilityStatus",
+    "RelativePath": "api/AvailabilityStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.AvailabilityStatusController",
+    "Method": "PostAvailabilityStatus",
+    "RelativePath": "api/AvailabilityStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddAvailabilityStatusDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.AvailabilityStatusController",
+    "Method": "GetAvailabilityStatusById",
+    "RelativePath": "api/AvailabilityStatus/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.AvailabilityStatusController",
+    "Method": "PutAvailabilityStatus",
+    "RelativePath": "api/AvailabilityStatus/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "editdtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddAvailabilityStatusDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.AvailabilityStatusController",
+    "Method": "DeleteAvailStatus",
+    "RelativePath": "api/AvailabilityStatus/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.CourseController",
+    "Method": "GetCourses",
+    "RelativePath": "api/Course",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.CourseController",
+    "Method": "PostCourse",
+    "RelativePath": "api/Course",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddCourseDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.CourseController",
+    "Method": "GetCourseById",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.CourseController",
+    "Method": "UpdateCourse",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddCourseDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.CourseController",
+    "Method": "ClosedCourse",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.EnrollmentController",
+    "Method": "GetEnrollments",
+    "RelativePath": "api/Enrollment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.EnrollmentController",
+    "Method": "PostEnrollment",
+    "RelativePath": "api/Enrollment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddEnrollmentDTOscs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.EnrollmentController",
+    "Method": "GetEnrollmentById",
+    "RelativePath": "api/Enrollment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.EnrollmentController",
+    "Method": "PutEnrollment",
+    "RelativePath": "api/Enrollment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "edittenrollment",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddEnrollmentDTOscs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.EnrollmentController",
+    "Method": "DeleteEnrollment",
+    "RelativePath": "api/Enrollment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ExamRecordController",
+    "Method": "GetExamRecords",
+    "RelativePath": "api/ExamRecord",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ExamRecordController",
+    "Method": "PostExamRecord",
+    "RelativePath": "api/ExamRecord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddExamRecordDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ExamRecordController",
+    "Method": "GetExamRecordById",
+    "RelativePath": "api/ExamRecord/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ExamRecordController",
+    "Method": "PutExamRecord",
+    "RelativePath": "api/ExamRecord/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddExamRecordDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ExamRecordController",
+    "Method": "DeleteExamRecord",
+    "RelativePath": "api/ExamRecord/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.InstructorController",
+    "Method": "GetInstructors",
+    "RelativePath": "api/Instructor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.InstructorController",
+    "Method": "PostInstructor",
+    "RelativePath": "api/Instructor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addinstructordtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddInstructorDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.InstructorController",
+    "Method": "GetInstructorById",
+    "RelativePath": "api/Instructor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.InstructorController",
+    "Method": "PutInstructor",
+    "RelativePath": "api/Instructor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatetos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddInstructorDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.InstructorController",
+    "Method": "DeleteInstructor",
+    "RelativePath": "api/Instructor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentController",
+    "Method": "GetPayment",
+    "RelativePath": "api/Payment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentController",
+    "Method": "PostPayment",
+    "RelativePath": "api/Payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddPaymentDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentController",
+    "Method": "GetPaymentById",
+    "RelativePath": "api/Payment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentController",
+    "Method": "PutPayment",
+    "RelativePath": "api/Payment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddPaymentDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentController",
+    "Method": "CancelPayment",
+    "RelativePath": "api/Payment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentTypeController",
+    "Method": "GetPaymentTypes",
+    "RelativePath": "api/PaymentType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentTypeController",
+    "Method": "PostPaymentType",
+    "RelativePath": "api/PaymentType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddPaymentTypeDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentTypeController",
+    "Method": "GetPaymentTypeById",
+    "RelativePath": "api/PaymentType/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentTypeController",
+    "Method": "PutPaymentType",
+    "RelativePath": "api/PaymentType/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddPaymentTypeDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.PaymentTypeController",
+    "Method": "DeletePaymentType",
+    "RelativePath": "api/PaymentType/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.RequirementController",
+    "Method": "GetRequirements",
+    "RelativePath": "api/Requirement",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.RequirementController",
+    "Method": "PostRequirement",
+    "RelativePath": "api/Requirement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddRequirementDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.RequirementController",
+    "Method": "GetRequirementById",
+    "RelativePath": "api/Requirement/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.RequirementController",
+    "Method": "PutRequirement",
+    "RelativePath": "api/Requirement/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddRequirementDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.RequirementController",
+    "Method": "DeleteRequirement",
+    "RelativePath": "api/Requirement/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ScholarshipController",
+    "Method": "GetScholarships",
+    "RelativePath": "api/Scholarship",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ScholarshipController",
+    "Method": "PutScholarship",
+    "RelativePath": "api/Scholarship",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddScholarshipDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ScholarshipController",
+    "Method": "GetScholarshipById",
+    "RelativePath": "api/Scholarship/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ScholarshipController",
+    "Method": "PutScholarship",
+    "RelativePath": "api/Scholarship/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "alterdtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddScholarshipDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.ScholarshipController",
+    "Method": "DeleteScholarship",
+    "RelativePath": "api/Scholarship/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentController",
+    "Method": "GetAllStudent",
+    "RelativePath": "api/Student",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentController",
+    "Method": "PostStudent",
+    "RelativePath": "api/Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addstudentdtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddStudentDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentController",
+    "Method": "GetStudentById",
+    "RelativePath": "api/Student/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentController",
+    "Method": "EditStudentById",
+    "RelativePath": "api/Student/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "alterstudentdtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddStudentDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentController",
+    "Method": "DeleteStudentById",
+    "RelativePath": "api/Student/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentTypeController",
+    "Method": "GetStudentType",
+    "RelativePath": "api/StudentType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentTypeController",
+    "Method": "PostStudentType",
+    "RelativePath": "api/StudentType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddStudentTypeDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentTypeController",
+    "Method": "GetStudentTypeById",
+    "RelativePath": "api/StudentType/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentTypeController",
+    "Method": "PutStudentType",
+    "RelativePath": "api/StudentType/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "editdtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddStudentTypeDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentTypeController",
+    "Method": "DeleteStudentType",
+    "RelativePath": "api/StudentType/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadController",
+    "Method": "GetStudyLoads",
+    "RelativePath": "api/StudyLoad",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadController",
+    "Method": "PostStudyLoad",
+    "RelativePath": "api/StudyLoad",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddStudyLoadDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadController",
+    "Method": "GetStudyLoadById",
+    "RelativePath": "api/StudyLoad/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadController",
+    "Method": "PutStudyLoad",
+    "RelativePath": "api/StudyLoad/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddStudyLoadDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadController",
+    "Method": "DeleteStudyLoad",
+    "RelativePath": "api/StudyLoad/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadSubjectController",
+    "Method": "GetStudyLoadSubjects",
+    "RelativePath": "api/StudyLoadSubject",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadSubjectController",
+    "Method": "PostStudyLoadSubject",
+    "RelativePath": "api/StudyLoadSubject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddStudyLoadSubjectDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadSubjectController",
+    "Method": "GetStudyLoadSubjectById",
+    "RelativePath": "api/StudyLoadSubject/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadSubjectController",
+    "Method": "PutStudyLoadSubject",
+    "RelativePath": "api/StudyLoadSubject/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "editdtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddStudyLoadSubjectDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudyLoadSubjectController",
+    "Method": "DeleteStudyLoadSubject",
+    "RelativePath": "api/StudyLoadSubject/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectController",
+    "Method": "GetSubjects",
+    "RelativePath": "api/Subject",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectController",
+    "Method": "PostSubject",
+    "RelativePath": "api/Subject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddSubjectDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectController",
+    "Method": "GetSubjectById",
+    "RelativePath": "api/Subject/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectController",
+    "Method": "PutSubject",
+    "RelativePath": "api/Subject/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddSubjectDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectController",
+    "Method": "DeleteSubject",
+    "RelativePath": "api/Subject/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectAmountController",
+    "Method": "GetSubjecstAmounts",
+    "RelativePath": "api/SubjectAmount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectAmountController",
+    "Method": "PostSubjectAmount",
+    "RelativePath": "api/SubjectAmount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddSubjectsAmountDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectAmountController",
+    "Method": "GetSubjectAmountById",
+    "RelativePath": "api/SubjectAmount/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectAmountController",
+    "Method": "PutSubjectAmount",
+    "RelativePath": "api/SubjectAmount/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "editdtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddSubjectsAmountDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.SubjectAmountController",
+    "Method": "DeleteSubjectAmount",
+    "RelativePath": "api/SubjectAmount/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.TstatusController",
+    "Method": "GetTaskStatus",
+    "RelativePath": "api/Tstatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.TstatusController",
+    "Method": "PostTaskStatus",
+    "RelativePath": "api/Tstatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adddtos",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddTaskStatusDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.TstatusController",
+    "Method": "GetTaskStatus",
+    "RelativePath": "api/Tstatus/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.TstatusController",
+    "Method": "PutTaskStatus",
+    "RelativePath": "api/Tstatus/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "editstatus",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.AddTaskStatusDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.TstatusController",
+    "Method": "DeleteTaskStatus",
+    "RelativePath": "api/Tstatus/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SchoolEnrollmentApi.WeatherForecast, SchoolEnrollmentApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
