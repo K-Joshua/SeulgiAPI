@@ -26,4 +26,10 @@ namespace SchoolEnrollmentApi.EnrollmentLibrary.DTOs
         public required DateTime UpdatedAt { get; set; }
         public required string CreatedBy { get; set; }
     }
+
+    public class GetAllSubjectDTOs
+    {
+        public required int SubjectId { get; set; }
+        public required string Name { get; set; }
+    }
 }

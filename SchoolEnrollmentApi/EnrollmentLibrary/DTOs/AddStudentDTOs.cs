@@ -1,6 +1,6 @@
 ﻿namespace SchoolEnrollmentApi.EnrollmentLibrary.DTOs
 {
-    public class AddStudentDTOs
+    public class AddStudentDTOs // DTO for adding the new student/data
     {
         public required string Name { get; set; }
         public required DateOnly BirthDate { get; set; }
@@ -10,7 +10,7 @@
         public required string Sex { get; set; }
     }
 
-    public class GetStudentDTOs
+    public class GetStudentDTOs // DTO for finding the data/student
     {
         public required int StudentId { get; set; }
         public required string Name { get; set; }

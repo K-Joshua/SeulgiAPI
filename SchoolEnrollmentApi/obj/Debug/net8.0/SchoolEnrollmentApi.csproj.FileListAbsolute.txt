@@ -175,3 +175,6 @@ C:\Users\Lenovo\source\c#\Api\SchoolEnrollmentApi\SchoolEnrollmentApi\obj\Debug\
 C:\Users\Lenovo\source\c#\Api\SchoolEnrollmentApi\SchoolEnrollmentApi\obj\Debug\net8.0\SchoolEnrollmentApi.pdb
 C:\Users\Lenovo\source\c#\Api\SchoolEnrollmentApi\SchoolEnrollmentApi\obj\Debug\net8.0\SchoolEnrollmentApi.genruntimeconfig.cache
 C:\Users\Lenovo\source\c#\Api\SchoolEnrollmentApi\SchoolEnrollmentApi\obj\Debug\net8.0\ref\SchoolEnrollmentApi.dll
+C:\Users\Lenovo\source\c#\Api\SchoolEnrollmentApi\SchoolEnrollmentApi\obj\Debug\net8.0\SchoolEnrollmentApi.sourcelink.json
+C:\Users\Lenovo\source\c#\Api\SchoolEnrollmentApi\SchoolEnrollmentApi\bin\Debug\net8.0\SchoolEnrollmentApi.xml
+C:\Users\Lenovo\source\c#\Api\SchoolEnrollmentApi\SchoolEnrollmentApi\obj\Debug\net8.0\SchoolEnrollmentApi.xml

@@ -10,7 +10,7 @@ namespace SchoolEnrollmentApi.EnrollmentLibrary
         {
         }
         public DbSet<Course> Course { get; set; }
-        public DbSet<Enrollment> Enrollment { get; set; }
+        public DbSet<Enrollment> Enrollment { get; set; }  
         public DbSet<ExamRecord> ExamRecord { get; set; }
         public DbSet<Instructor> Instructor { get; set; }
         public DbSet<Payment> Payment { get; set; }

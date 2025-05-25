@@ -3,32 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\availabilitystatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\availabilitystatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addavailabilitystatusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addavailabilitystatusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\requirementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\requirementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\scholarshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\scholarshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\databaseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\databaseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addavailabilitystatusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addavailabilitystatusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\subjectsamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\subjectsamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudyloaddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudyloaddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudyloadsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudyloadsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addtaskstatusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addtaskstatusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addsubjectsamountdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addsubjectsamountdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250519004412_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolEnrollmentApi\\Migrations\\20250519004412_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\examrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\examrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\schoolenrollmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\schoolenrollmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\requirementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\requirementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +111,8 @@
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\requirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\requirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\subjectsamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\subjectsamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\subjectamountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,18 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\studyloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\studyloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addsubjectsamountdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addsubjectsamountdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudyloadsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudyloadsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517060712_Remove Increment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,20 +151,12 @@
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\databaseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\databaseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudyloaddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addstudyloaddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\studyload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,24 +191,8 @@
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\tstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\tstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addtaskstatusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\enrollmentlibrary\\dtos\\addtaskstatusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\scholarshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\scholarshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -177,10 +201,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\examrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\examrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\enrollmentlibrary\\dtos\\addrequirementdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -223,28 +243,12 @@
       "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\schoolenrollmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\schoolenrollmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250510025220_FullUpdatedDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolEnrollmentApi\\Migrations\\20250510025220_FullUpdatedDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250510024634_updated date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolEnrollmentApi\\Migrations\\20250510024634_updated date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|solutionrelative:schoolenrollmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0247125E-4D47-4EE0-B708-B112744D6084}|SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj|c:\\users\\lenovo\\source\\c#\\api\\schoolenrollmentapi\\schoolenrollmentapi\\schoolenrollmentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -262,7 +266,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -277,213 +281,149 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwDYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:40:42.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudentController.cs",
               "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAowFIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T04:51:22.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExamRecord.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\ExamRecord.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\ExamRecord.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\ExamRecord.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\ExamRecord.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T01:03:46.573Z"
+              "WhenOpened": "2025-05-04T04:51:22.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AddSubjectDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectDTOs.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectDTOs.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectDTOs.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectDTOs.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA9wCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:38:03.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AddStudentDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentDTOs.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentDTOs.cs",
               "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentDTOs.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T01:16:24.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Course.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Program.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:00:28.789Z"
+              "WhenOpened": "2025-05-03T02:28:52.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AvailabilityStatusController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\AvailabilityStatusController.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\AvailabilityStatusController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\AvailabilityStatusController.cs",
               "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\AvailabilityStatusController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T21:45:25.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EnrollmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\EnrollmentController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\EnrollmentController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\EnrollmentController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\EnrollmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T23:44:33.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddAvailabilityStatusDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddAvailabilityStatusDTOs.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddAvailabilityStatusDTOs.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddAvailabilityStatusDTOs.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddAvailabilityStatusDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T21:46:14.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RequirementController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\RequirementController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\RequirementController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\RequirementController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\RequirementController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T23:43:49.313Z"
+              "WhenOpened": "2025-05-09T21:45:25.517Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PaymentTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\PaymentTypeController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\PaymentTypeController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\PaymentTypeController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\PaymentTypeController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA1wB0AAAA9AAAAAAAAAA==",
+              "Title": "DatabaseEnrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DatabaseEnrollment.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DatabaseEnrollment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DatabaseEnrollment.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DatabaseEnrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T05:14:36.195Z"
+              "WhenOpened": "2025-05-03T05:05:48.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Status.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Status.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Status.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Status.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T17:02:35.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Student.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Student.cs",
               "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Student.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T23:52:21.032Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScholarshipController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\ScholarshipController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\ScholarshipController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\ScholarshipController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\ScholarshipController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwFQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:07:34.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T02:40:44.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\appsettings.json",
+              "RelativeToolTip": "SchoolEnrollmentApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T05:12:49.545Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Requirement.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Requirement.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Requirement.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Requirement.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Requirement.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBwAAAASAAAAAAAAAA==",
+              "Title": "AddAvailabilityStatusDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddAvailabilityStatusDTOs.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddAvailabilityStatusDTOs.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddAvailabilityStatusDTOs.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddAvailabilityStatusDTOs.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T00:43:23.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SubjectAmountController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\SubjectAmountController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\SubjectAmountController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\SubjectAmountController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\SubjectAmountController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T01:49:57.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "20250517062618_Remove Increment.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517062618_Remove Increment.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517062618_Remove Increment.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517062618_Remove Increment.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517062618_Remove Increment.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T06:26:18.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StudyLoadController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudyLoadController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\StudyLoadController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudyLoadController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\StudyLoadController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T00:37:51.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StudyLoadSubjectController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudyLoadSubjectController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\StudyLoadSubjectController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudyLoadSubjectController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\StudyLoadSubjectController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T01:22:26.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StudyLoadSubject.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoadSubject.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoadSubject.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoadSubject.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoadSubject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T19:09:46.888Z"
+              "WhenOpened": "2025-05-09T21:46:14.567Z"
             },
             {
               "$type": "Document",
@@ -499,19 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AddSubjectsAmountDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectsAmountDTOs.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectsAmountDTOs.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectsAmountDTOs.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectsAmountDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T01:10:16.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "AddStudyLoadSubjectDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadSubjectDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadSubjectDTOs.cs",
@@ -523,259 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AddSubjectDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectDTOs.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectDTOs.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectDTOs.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T00:38:03.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DatabaseEnrollment.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DatabaseEnrollment.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DatabaseEnrollment.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DatabaseEnrollment.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DatabaseEnrollment.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAowE0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T05:05:48.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250517060712_Remove Increment.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517060712_Remove Increment.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517060712_Remove Increment.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517060712_Remove Increment.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517060712_Remove Increment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T06:07:12.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20250517060829_Remove Increment.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517060829_Remove Increment.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517060829_Remove Increment.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517060829_Remove Increment.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517060829_Remove Increment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T06:08:29.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Subject.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Subject.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Subject.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Subject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T04:50:06.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20250517053915_FixEverrything.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517053915_FixEverrything.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517053915_FixEverrything.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517053915_FixEverrything.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517053915_FixEverrything.cs",
-              "ViewState": "AgIAAOwAAAAAAAAAAAD4v/cAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T05:39:15.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SubjectController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\SubjectController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\SubjectController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\SubjectController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\SubjectController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAIAwwDAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T00:41:34.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20250517055142_FixSubject.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T05:51:43.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20250517052526_FixMaxLength.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T05:25:26.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AddStudyLoadDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadDTOs.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadDTOs.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadDTOs.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadDTOs.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T01:16:28.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "StudyLoad.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoad.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoad.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoad.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T01:01:52.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "InstructorController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\InstructorController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\InstructorController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\InstructorController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\InstructorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T23:18:41.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AddStudentTypeDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentTypeDTOs.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentTypeDTOs.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentTypeDTOs.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentTypeDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T02:18:23.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "StudentTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudentTypeController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\StudentTypeController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudentTypeController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\StudentTypeController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAUwE0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T02:20:51.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "StudentType.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudentType.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudentType.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudentType.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudentType.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T01:08:10.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Scholarship.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Scholarship.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Scholarship.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Scholarship.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Scholarship.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T17:09:44.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Payment.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T01:00:27.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Instructor.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Instructor.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Instructor.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Instructor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T01:03:54.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Enrollment.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Enrollment.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Enrollment.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Enrollment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:02:28.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "SchoolEnrollmentApi.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T23:33:54.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "TstatusController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\TstatusController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\TstatusController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\TstatusController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\TstatusController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T17:03:14.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 15,
               "Title": "AddTaskStatusDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddTaskStatusDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddTaskStatusDTOs.cs",
@@ -787,19 +463,415 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ScholarshipController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\ScholarshipController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\ScholarshipController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\ScholarshipController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\ScholarshipController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAgwFQAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "AddStudyLoadDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadDTOs.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadDTOs.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadDTOs.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudyLoadDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T17:07:34.972Z"
+              "WhenOpened": "2025-05-10T01:16:28.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddSubjectsAmountDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectsAmountDTOs.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectsAmountDTOs.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectsAmountDTOs.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddSubjectsAmountDTOs.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:10:16.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Enrollment.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:02:28.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Course.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:00:28.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250519004412_example.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250519004412_example.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250519004412_example.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250519004412_example.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250519004412_example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:44:12.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExamRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\ExamRecord.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\ExamRecord.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\ExamRecord.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\ExamRecord.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:03:46.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SchoolEnrollmentApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj",
+              "RelativeToolTip": "SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T02:57:03.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:44:33.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SchoolEnrollmentApi.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\obj\\Debug\\net8.0\\SchoolEnrollmentApi.AssemblyInfo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:33:54.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RequirementController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\RequirementController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\RequirementController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\RequirementController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\RequirementController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:43:49.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\PaymentTypeController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\PaymentTypeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\PaymentTypeController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\PaymentTypeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:14:36.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Status.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Status.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:02:35.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Requirement.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Requirement.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Requirement.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Requirement.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Requirement.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:43:23.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SubjectAmountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\SubjectAmountController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\SubjectAmountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\SubjectAmountController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\SubjectAmountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:49:57.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250517062618_Remove Increment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517062618_Remove Increment.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517062618_Remove Increment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517062618_Remove Increment.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517062618_Remove Increment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:26:18.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudyLoadController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudyLoadController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\StudyLoadController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudyLoadController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\StudyLoadController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:37:51.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudyLoadSubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudyLoadSubjectController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\StudyLoadSubjectController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudyLoadSubjectController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\StudyLoadSubjectController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:22:26.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudyLoadSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoadSubject.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoadSubject.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoadSubject.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoadSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:09:46.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250517060712_Remove Increment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517060712_Remove Increment.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517060712_Remove Increment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517060712_Remove Increment.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517060712_Remove Increment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:07:12.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250517060829_Remove Increment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517060829_Remove Increment.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517060829_Remove Increment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517060829_Remove Increment.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517060829_Remove Increment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:08:29.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Subject.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:50:06.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250517053915_FixEverrything.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517053915_FixEverrything.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517053915_FixEverrything.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517053915_FixEverrything.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517053915_FixEverrything.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAD4v/cAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:39:15.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIAwwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:41:34.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250517055142_FixSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517055142_FixSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:51:43.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250517052526_FixMaxLength.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Migrations\\20250517052526_FixMaxLength.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:25:26.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StudyLoad.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoad.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoad.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoad.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudyLoad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:01:52.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:18:41.078Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
+              "Title": "AddStudentTypeDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentTypeDTOs.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentTypeDTOs.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentTypeDTOs.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddStudentTypeDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:18:23.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudentTypeController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\StudentTypeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\StudentTypeController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\StudentTypeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwE0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:20:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StudentType.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudentType.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudentType.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudentType.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\StudentType.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:08:10.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Scholarship.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Scholarship.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Scholarship.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Scholarship.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Scholarship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:09:44.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Payment.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:00:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Instructor.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\EnrollmentLibrary\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:03:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TstatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\TstatusController.cs",
+              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\TstatusController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\TstatusController.cs",
+              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\TstatusController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:03:14.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\PaymentController.cs",
@@ -811,7 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "ExamRecordController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\ExamRecordController.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\ExamRecordController.cs",
@@ -823,19 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T23:40:42.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
               "Title": "AddRequirementDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddRequirementDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddRequirementDTOs.cs",
@@ -847,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 51,
               "Title": "AddPaymentTypeDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddPaymentTypeDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddPaymentTypeDTOs.cs",
@@ -859,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 52,
               "Title": "AddInstructorDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddInstructorDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddInstructorDTOs.cs",
@@ -871,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 53,
               "Title": "AddPaymentDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddPaymentDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddPaymentDTOs.cs",
@@ -883,7 +943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 54,
               "Title": "AddExamRecordDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddExamRecordDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddExamRecordDTOs.cs",
@@ -895,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 55,
               "Title": "AddScholarshipDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddScholarshipDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddScholarshipDTOs.cs",
@@ -907,7 +967,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 56,
               "Title": "AddEnrollmentDTOscs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddEnrollmentDTOscs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddEnrollmentDTOscs.cs",
@@ -919,7 +979,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 57,
               "Title": "AddCourseDTOs.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddCourseDTOs.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\DTOs\\AddCourseDTOs.cs",
@@ -931,7 +991,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 58,
               "Title": "AgeMethod.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\EnrollmentLibrary\\Methods\\AgeMethod.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\EnrollmentLibrary\\Methods\\AgeMethod.cs",
@@ -943,7 +1003,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 59,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\WeatherForecast.cs",
@@ -955,43 +1015,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\appsettings.json",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\appsettings.json",
-              "RelativeToolTip": "SchoolEnrollmentApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-03T05:12:49.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Program.cs",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Program.cs",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T02:28:52.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "SchoolEnrollmentApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj",
-              "RelativeToolTip": "SchoolEnrollmentApi\\SchoolEnrollmentApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T02:57:03.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "20250510025220_FullUpdatedDate.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250510025220_FullUpdatedDate.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250510025220_FullUpdatedDate.cs",
@@ -1003,7 +1027,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "20250510024634_updated date.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Migrations\\20250510024634_updated date.cs",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Migrations\\20250510024634_updated date.cs",
@@ -1015,19 +1039,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SchoolEnrollmentApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SchoolEnrollmentApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-10T02:40:44.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "SchoolEnrollmentApi.http",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\c#\\Api\\SchoolEnrollmentApi\\SchoolEnrollmentApi\\SchoolEnrollmentApi.http",
               "RelativeDocumentMoniker": "SchoolEnrollmentApi\\SchoolEnrollmentApi.http",
@@ -1036,6 +1048,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-05-10T02:37:20.95Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             }
           ]
         },

@@ -790,6 +790,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SchoolEnrollmentApi.Controllers.StudentController",
+    "Method": "GetAllStudentSub",
+    "RelativePath": "api/Student/GetAllSubject/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getsubject",
+        "Type": "SchoolEnrollmentApi.EnrollmentLibrary.DTOs.GetAllSubjectDTOs",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SchoolEnrollmentApi.Controllers.StudentTypeController",
     "Method": "GetStudentType",
     "RelativePath": "api/StudentType",

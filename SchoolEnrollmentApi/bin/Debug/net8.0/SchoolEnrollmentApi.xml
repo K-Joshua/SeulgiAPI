@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SchoolEnrollmentApi</name>
+    </assembly>
+    <members>
+        <member name="T:SchoolEnrollmentApi.Migrations.RemoveIncrement">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolEnrollmentApi.Migrations.RemoveIncrement.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolEnrollmentApi.Migrations.RemoveIncrement.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolEnrollmentApi.Migrations.RemoveIncrement.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
